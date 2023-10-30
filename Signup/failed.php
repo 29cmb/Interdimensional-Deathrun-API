@@ -1,0 +1,1 @@
+Signup has failed. Its possible your username is already taken. Return to <a href="https://Interdimensional-Deathrun-API.cmbdeveloper.repl.co/Signup/index.php">the login page</a>
